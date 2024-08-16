@@ -17,7 +17,7 @@
 
 ### Windows
 
-1. Download the [ThunderBolt Installer](#) for Windows.
+1. Download the [ThunderBolt Installer](https://github.com/UnStackss/tdb/releases/tag/v3.1.0) for Windows.
 2. Run the installer and follow the on-screen instructions.
 
 ### macOS
@@ -45,16 +45,16 @@
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE.md). 
+This project is licensed under the [TDB License](LICENSE.md). 
 
 ## 📢 Get Involved
 
-- **Report Issues:** If you encounter any issues, please [open an issue](#).
+- **Report Issues:** If you encounter any issues, please [open an issue](https://github.com/UnStackss/tdb/issues/new).
 - **Contribute:** We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
 
 ## 🌟 Support Us
 
-If you enjoy ThunderBolt and want to support our work, consider starring the repository or [donating](#).
+If you enjoy ThunderBolt and want to support our work, consider starring the repository or [donating](https://ko-fi.com/unstackss).
 
 ## 🛠️ Built With
 
@@ -64,9 +64,9 @@ If you enjoy ThunderBolt and want to support our work, consider starring the rep
 
 ## 📧 Contact
 
-For questions or support, reach out to us at [support@unstackss.com](mailto:support@unstackss.com).
+For questions or support, reach out to us at [support@thunderboltmc.xyz](mailto:support@thunderboltmc.xyz).
 
 ---
 
-**ThunderBolt** by [Unstackss (Thomas Garau)](https://unstackss.com)  
+**ThunderBolt** by [Unstackss (Thomas Garau)](thunderboltmc.xyz)  
 16/08/2024
