@@ -32,7 +32,7 @@ Since ThunderBolt is based on Electron, you must also comply with the terms and 
 
 ## 5. Applicability
 
-This License will be governed by and construed in accordance with the laws of [Your Country or Jurisdiction].
+This License will be governed by and construed in accordance with the laws of Italy.
 
 ---
 
