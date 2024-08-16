@@ -73,5 +73,5 @@ For questions or support, reach out to us at [support@thunderboltmc.xyz](mailto:
 
 ---
 
-**ThunderBolt** by [Unstackss (Thomas Garau)](thunderboltmc.xyz)  
+**ThunderBolt** by [Unstackss (Thomas Garau)](open:thunderboltmc.xyz)  
 16/08/2024
