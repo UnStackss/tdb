@@ -38,10 +38,15 @@
 
 ## 🎨 Screenshots
 
-<p align="center">
+<details>
+  <summary>Click to expand screenshots</summary>
+  <p align="center">
   <img src="https://i.imgur.com/R0imVbx.png" alt="ThunderBolt Screenshot 1" width="600"/>
   <img src="https://i.imgur.com/WbtAgMV.png" alt="ThunderBolt Screenshot 2" width="600"/>
 </p>
+</details>
+
+
 
 ## 📜 License
 
