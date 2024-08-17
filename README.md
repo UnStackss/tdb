@@ -6,6 +6,14 @@
 
 **ThunderBolt** is a fast, modern web browser built on Electron, offering a sleek, intuitive user experience with advanced features for both casual and power users.
 
+## 📊 Statistics
+![GitHub Repo stars](https://img.shields.io/github/stars/UnStackss/tdb?style=for-the-badge&label=Stars&color=rgb(93%2C%20167%2C%20230))
+![GitHub forks](https://img.shields.io/github/forks/UnStackss/tdb?style=for-the-badge&label=Forks&color=rgb(93%2C%20167%2C%20230))
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/UnStackss/tdb?style=for-the-badge&label=ISSUES&color=rgb(93%2C%20167%2C%20230))
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/UnStackss/tdb/total?style=for-the-badge&label=Downloads&color=rgb(93%2C%20167%2C%20230))
+
+
+
 ## 🚀 Features
 
 - **Blazing Fast Performance:** Enjoy a lightning-fast browsing experience with optimized rendering and JavaScript execution.
